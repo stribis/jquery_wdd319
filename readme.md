@@ -10,10 +10,10 @@
 |:two:   |[Animation: Show, hide, fade, slide...](https://github.com/stribis/jquery_wdd918#books-unit-2)|
 |:three:    |[Events: Click, hover, multiple events...](https://github.com/stribis/jquery_wdd918#books-unit-3)|
 |:four:    |[Timeline: Creating a timeline with JS and jQuery...](https://github.com/stribis/jquery_wdd918#books-unit-4)|
-<!-- |:five:    |[Slider: creating a slider with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-5)|
+<!-- |:five:    |[Slider: creating a slider with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-5)| -->
 |:six:    |[Accordion: creating an accordion with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-6)|
 |:seven:    |[Ajax: JQuery AJAX, APIs ...](https://github.com/stribis/jquery_wdd918#books-unit-7)|
-|:eight:    |[Tabs: creating a tab system with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-8)| -->
+<!--|:eight:    |[Tabs: creating a tab system with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-8)| -->
 ---
 ### :books: Unit 1
 * :school_satchel: Basics
@@ -52,14 +52,14 @@
 * :arrow_backward: Slider :arrow_forward:
   1. Creating a slider with jQuery ( read the comments in the code!)
 --- -->
-<!-- ### :books: Unit 6
+### :books: Unit 6
 * :musical_keyboard: Accordion
   1. Creating a accordion with jQuery ( read the comments in the code!)
---- -->
-<!-- ### :books: Unit 7
+---
+### :books: Unit 7
 * :link: Ajax
   1. `Ajax()`- Using ajax to get JSON from APIs
---- -->
+---
 <!-- ### :books: Unit 8
 * :file_folder: Tabs
   1. Creating a tab system with jQuery ( read the comments in the code!)
